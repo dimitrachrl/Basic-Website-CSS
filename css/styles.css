@@ -1,0 +1,150 @@
+.top-container{
+  background-color: #FDF6F4;
+  position: relative;
+  padding-top: 100px;
+}
+
+.middle-container{
+  padding-bottom: 50px;
+
+}
+
+.bottom-container{
+background-color: #AD8B73;
+padding: 50px 0 20px;
+}
+
+body{
+  margin: 0 0 10;
+  text-align: center; 
+  font-family: 'Quicksand', sans-serif;
+  font-weight: 300;
+  font-style: normal;
+  font-size: 1.5em;
+
+}
+h1{
+  font-size: 3.9rem;
+  font-family: 'Sacramento', cursive;
+  margin: 60px auto 0 auto;
+  color: #AD8B73;
+  line-height: 1;
+}
+h2{
+   font-family: 'Montserrat', sans-serif;
+   font-size: 2rem;
+   color: #AD8B73;
+   font-weight: normal;
+ }
+h3{
+  font-family: 'Montserrat', sans-serif;
+  color: #6C4A4A;
+}
+a{
+  color: #6C4A4A;
+  text-decoration: none;
+  font-family: 'Lato', sans-serif;
+  margin: 10px 20px ;
+}
+
+a:hover{
+  color: #EAF6F6;
+}
+.pro{
+  text-decoration: underline;
+}
+
+.intro{
+  width: 30%;
+  margin: auto;
+
+}
+
+p{
+  line-height: 2;
+}
+.bottom-cloud{
+  position: absolute;
+  left: 250px;
+  bottom:50%;
+}
+
+.top-cloud{
+  position:absolute;
+  right: 300px;
+  top: 40px;
+  text-align:left;
+  line-height: 2;
+}
+
+.developer{
+  font-size: 1.5rem;
+}
+
+.skill-row{
+  width: 50%;
+  margin: 100px auto 100px auto;
+  text-align: left;
+}
+
+.skill-icon1{
+  float: left;
+  margin-right: 30px;
+}
+
+.skill-icon2{
+  float: right;
+  margin-left: 30px;
+}
+
+.credit{
+  color: white;
+  font-size: 0.75rem;
+  padding: 20px 0;
+}
+
+.contact-me{
+  line-height: 2;
+}
+
+hr {
+  border-style: none;
+  border-top: 5px dotted #E9DAC1;
+  width: 7%;
+}
+
+.profile{
+
+margin: 100px auto 100px auto;
+}
+
+.skills{
+
+  margin: 100px auto 100px auto;
+}
+
+.contact-me{
+  margin: 100px auto 100px auto;
+}
+
+.contact-message{
+  width: 40%;
+  margin: 40px auto 60px ;
+}
+
+.btn {
+  -webkit-border-radius: 7;
+  -moz-border-radius: 7;
+  border-radius: 7px;
+  font-family: Courier New;
+  color: #594a59;
+  font-size: 20px;
+  background: #F8EAEC;
+  padding: 10px 28px 10px 28px;
+  text-decoration: none;
+}
+
+.btn:hover {
+  background: #edd0d5;
+  text-decoration: none;
+}
